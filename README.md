@@ -1,5 +1,5 @@
 ### C++ hobby developer
-<img src="https://komarev.com/ghpvc/?username=A248640&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=A248640&style=for-the-badge&color=blue" alt=""/>
 
 <!--
 **A248640/A248640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
